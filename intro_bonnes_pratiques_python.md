@@ -41,3 +41,4 @@ Le ```P.E.P.s``` représente le code de bonne conduite pour le langage python (i
 [peps](https://peps.python.org/#)  
 [hitchiker](https://docs.python-guide.org/writing/style/)  
 [MEDIUM](https://towardsdatascience.com/a-guide-to-python-good-practices-90598529da35)  
+#Merci pour votre lecture
